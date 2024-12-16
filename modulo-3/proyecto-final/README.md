@@ -141,7 +141,7 @@ Vemos claramente que al usuario 3 le ha recomendado canciones a las que el usuar
 
 Si evaluamos la precisión del modelo, realmente no es demasiado buena `RMSE: 0.9585`, pero hay que tener en cuenta que partimos de un dataset de recomendaciones muy pequeño, y que estamos utilizando la puntuación otorgada por tan sólo dos usuarios. Pero bien sirve para comprobar el concepto de RecSys!
 
-# Unir Agrupamiento y Recomendación
+## Unir Agrupamiento y Recomendación
 
 Finalmente se ha realizado un ejercicio de visualización de las canciones puntuadas y los clusters a las que pertenecen, por ver si las canciones que más gustan tienen alguna característica en común.
 
