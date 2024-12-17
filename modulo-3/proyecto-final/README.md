@@ -5,6 +5,8 @@
 
 El proyecto surge como idea familiar para salir del bucle de canciones que escuchamos en viajes largos.
 
+La presentación del proyecto puede verse en [Google Slides](https://docs.google.com/presentation/d/1dnqUFYRsDaMQaJEqxfJGlRuuKVcVsYuVLpAZlrwBRBI/edit?usp=sharing).
+
 El set de datos se ha obtenido de [Kaggle](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset). Debido al tamaño (5MB) no está incluido en el proyecto (GitHub tan sólo permite 2MB como tamaño de fichero máximo en las cuentas gratuitas).
 
 ## EDA (Exploratory Data Analysis)
